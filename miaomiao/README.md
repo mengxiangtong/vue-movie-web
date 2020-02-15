@@ -1,5 +1,15 @@
 # miaomiao
 
+学习vue的小项目
+前端技术
+
+vue
+vue-router
+element
+
+
+
+
 ## Project setup
 ```
 npm install
